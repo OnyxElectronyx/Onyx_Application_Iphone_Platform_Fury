@@ -1,0 +1,13 @@
+Layout.txt
+
+	Portrait
+	Scorebar on top above the game
+		Highscore
+		Number of balls left
+	Eternally fading ball
+	Colored bricks go boop
+	Hit the colored bricks to keep your balls
+	Magical bricks (colored... we dont know)
+		Ball count goes up
+	Speed increases over time
+	platforms can change direction
